@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 echo "========================================================"
-echo " ResearchMate - Autonomous Research Intelligence"
+echo " Kortex - Autonomous Research Intelligence"
 echo "========================================================"
 
 # Run backend

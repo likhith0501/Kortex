@@ -29,7 +29,7 @@ from backend.services.report_service import generate_session_report
 from backend.sample_data.sample_papers import load_sample_papers_into_session
 
 app = FastAPI(
-    title="ResearchMate API",
+    title="Kortex API",
     description="Autonomous Research Intelligence API",
     version="1.0.0"
 )

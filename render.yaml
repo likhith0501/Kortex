@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: researchmate
+    name: kortex
     env: docker
     dockerfilePath: ./Dockerfile
     envVars:

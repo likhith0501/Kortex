@@ -72,7 +72,7 @@ export const SettingsScreen: React.FC<SettingsScreenProps> = ({
         addToast({
           type: 'warning',
           title: 'Ollama Offline',
-          message: 'Ollama daemon not reached. ResearchMate is running in 100% offline Extractive Mode.',
+          message: 'Ollama daemon not reached. KORTEX is running in 100% offline Extractive Mode.',
         });
       }
     } catch (e: any) {
@@ -125,7 +125,7 @@ export const SettingsScreen: React.FC<SettingsScreenProps> = ({
                 <CheckCircle2 className="w-3.5 h-3.5" /> Active
               </span>
             ) : (
-              <span className="flex items-center gap-1 text-[11px] font-mono font-medium text-warning" title="ResearchMate gracefully uses extractive NLP">
+              <span className="flex items-center gap-1 text-[11px] font-mono font-medium text-warning" title="KORTEX gracefully uses extractive NLP">
                 <Terminal className="w-3.5 h-3.5" /> Extractive Mode
               </span>
             )}

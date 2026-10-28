@@ -74,11 +74,11 @@ export const Sidebar: React.FC<SidebarProps> = ({ totalPapers = 0, totalGaps = 0
         {!collapsed ? (
           <div className="flex items-center gap-2.5 truncate">
             <div className="w-8 h-8 rounded-control bg-gradient-to-br from-accent-primary via-accent-cyan to-accent-violet flex items-center justify-center text-white font-bold text-sm shadow-sm">
-              RM
+              KX
             </div>
             <div className="truncate">
               <h1 className="text-sm font-semibold tracking-tight text-text-primary">
-                ResearchMate
+                KORTEX
               </h1>
               <p className="text-[10px] text-text-muted truncate">
                 Autonomous Intelligence
@@ -87,7 +87,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ totalPapers = 0, totalGaps = 0
           </div>
         ) : (
           <div className="w-8 h-8 mx-auto rounded-control bg-gradient-to-br from-accent-primary via-accent-cyan to-accent-violet flex items-center justify-center text-white font-bold text-xs shadow-sm">
-            RM
+            KX
           </div>
         )}
 

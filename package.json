@@ -1,11 +1,11 @@
 {
-  "name": "researchmate",
+  "name": "kortex",
   "version": "1.0.0",
-  "description": "ResearchMate — Autonomous Research Intelligence",
+  "description": "Kortex — Autonomous Research Intelligence",
   "scripts": {
     "dev": "cd frontend && npm run dev",
     "build": "cd frontend && npm run build"
   },
-  "author": "ResearchMate Team",
+  "author": "Kortex Team",
   "license": "MIT"
 }

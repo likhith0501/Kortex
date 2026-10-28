@@ -1,7 +1,7 @@
-# ResearchMate — Autonomous Research Intelligence
+# KORTEX — Autonomous Research Intelligence
 > **Tagline:** Upload. Understand. Discover What's Next.
 
-ResearchMate is a calm, precise research cockpit designed for students, scientists, and applied researchers. It ingests research papers in PDF format, performs structured section-aware extraction, builds semantic knowledge graphs, compares methodologies across papers, and surfaces evidence-backed research gaps with exact page citations.
+Kortex is a calm, precise research cockpit designed for students, scientists, and applied researchers. It ingests research papers in PDF format, performs structured section-aware extraction, builds semantic knowledge graphs, compares methodologies across papers, and surfaces evidence-backed research gaps with exact page citations.
 
 ---
 
